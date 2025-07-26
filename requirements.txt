@@ -1,0 +1,20 @@
+# --- Core ML & Torch ---
+torch
+transformers
+accelerate
+onnx
+onnxruntime
+
+# --- API & Server ---
+fastapi
+uvicorn[standard]
+
+# --- Data Handling ---
+pandas
+scikit-learn
+openpyxl
+
+# --- Other Dependencies ---
+numpy
+protobuf
+requests
